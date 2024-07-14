@@ -1,4 +1,4 @@
-package org.example.synchronization.semaphore;
+package org.example.synchronization.order.semaphore;
 
 /**
  * Representation how started thread in order executed in the same order by semaphore

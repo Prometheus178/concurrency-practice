@@ -1,4 +1,4 @@
-package org.example.synchronization.lock;
+package org.example.synchronization.order;
 
 /**
  *  Representation how started thread in order do not executed in the same order

@@ -1,4 +1,4 @@
-package org.example.synchronization.semaphore;
+package org.example.synchronization.order.semaphore;
 
 import java.util.concurrent.Semaphore;
 

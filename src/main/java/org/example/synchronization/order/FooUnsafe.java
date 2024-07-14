@@ -1,4 +1,4 @@
-package org.example.synchronization.lock;
+package org.example.synchronization.order;
 
 public class FooUnsafe {
 

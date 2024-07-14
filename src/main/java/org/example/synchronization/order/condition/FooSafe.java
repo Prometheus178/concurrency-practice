@@ -1,4 +1,4 @@
-package org.example.synchronization.lock;
+package org.example.synchronization.order.condition;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
