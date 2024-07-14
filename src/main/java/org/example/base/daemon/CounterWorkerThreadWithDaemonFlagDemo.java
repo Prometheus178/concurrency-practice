@@ -1,7 +1,9 @@
 package org.example.base.daemon;
 
-import org.example.base.priority.CounterWorkerThreadWithPriority;
-
+/**
+ * Representation how create daemon-thread by flag daemon
+ * Daemon-thread alife until process live.
+ */
 public class CounterWorkerThreadWithDaemonFlagDemo {
 
 	public static void main(String[] args) {

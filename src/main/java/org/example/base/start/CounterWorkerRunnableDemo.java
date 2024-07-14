@@ -1,5 +1,9 @@
 package org.example.base.start;
 
+/**
+ *  Representation how to start thread in process
+ *  CounterWorkerRunnable implemented Runnable interface and override method run
+ */
 public class CounterWorkerRunnableDemo {
 
 	public static void main(String[] args) {

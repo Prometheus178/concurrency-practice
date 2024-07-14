@@ -1,5 +1,9 @@
 package org.example.base.start;
 
+/**
+ *  Representation how to start thread in process
+ *  CounterWorkerThread extended class Thread and implemented method run
+ */
 public class CounterWorkerThreadDemo {
 
 	public static void main(String[] args) {
